@@ -1,9 +1,7 @@
 #
 # Hassan Ali Qadir
-#CS 341 PROJECT 1
-#UIN: 678537123
-# This program uses python and sqllite 3 to use the implemented commands and get whatever information from the database
-#
+# This program uses python and sqllite 3 to use the implemented commands and get whatever information you made need from the database
+
 
 import sqlite3
 import matplotlib.pyplot as plt
